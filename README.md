@@ -1,2 +1,2 @@
 # DailyProgrammer
-Solutions to DailyProgrammer challenges on reddit.com
+Solutions to [DailyProgrammer](https://www.reddit.com/r/dailyprogrammer/) challenges on reddit.com
